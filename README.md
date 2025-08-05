@@ -5,6 +5,7 @@ Welcome to the Python Data Structures course repository! This repo contains all 
 
 ## Introduction
 This repository is a collection of Python files that demonstrate the implementation and usage of key data structures. Through this course, I have covered several data structures such as:
+
 -`List`
 
 -`Tuple`
