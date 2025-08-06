@@ -11,6 +11,7 @@ This repository is a collection of Python files that demonstrate the implementat
 -`Queue`
 -`Dictionary`
 -`Strings`
+-`Files`
 
 The purpose of this repository is to showcase how different data structures are implemented and used.
 
