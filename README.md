@@ -24,3 +24,4 @@ The following data structures have been covered:
 3. **Sets**: Set operations, uniqueness, and membership testing.
 4. **Dictionaries**: Key-value pairs, efficient lookups, and data organization.
 6. **Queues**: FIFO (First-In, First-Out) operations, implementing queues using lists.
+7. **Files**: File handling,try-except blocks and management system.
