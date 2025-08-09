@@ -119,6 +119,11 @@ print(df.isnull())  # Boolean DataFrame indicating where the values are missing
 
 print('--------------------------------------------')
 
+#Group by
+df.groupby('column_name'): Grouping data based on the column.
+df.groupby('column_name').agg({'column_name': 'mean'}): Calculating the mean for the grouped column.
+
+
 # Drops rows with empty cells (NaN)
 df.dropna(inplace=True)  # Remove rows that contain NaN values
 print(df)
@@ -146,3 +151,4 @@ print('--------------------------------------------')
 
 #You can find this .csv dataset in the Kaggle
 #https://www.kaggle.com/datasets
+
