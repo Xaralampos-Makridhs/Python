@@ -121,7 +121,7 @@ print('--------------------------------------------')
 
 #Group by
 df.groupby('column_name'): Grouping data based on the column.
-df.groupby('column_name').agg({'column_name': 'mean'}): Calculating the mean for the grouped column.
+df.groupby('column_name').agg({'column_name': 'mean'}): #Calculating the mean for the grouped column.
 
 
 # Drops rows with empty cells (NaN)
@@ -151,4 +151,5 @@ print('--------------------------------------------')
 
 #You can find this .csv dataset in the Kaggle
 #https://www.kaggle.com/datasets
+
 
