@@ -153,9 +153,6 @@ print('--------------------------------------------')
 
 print(df.corr()) #Calculates the correlation between two tables.
 
-#You can find this .csv dataset in the Kaggle
-#https://www.kaggle.com/datasets
-
 
 
 
