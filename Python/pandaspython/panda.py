@@ -45,7 +45,7 @@ print(df.dtypes)
 print('--------------------------------------------')
 
 # Access a specific column (e.g., 'diagnosis')
-diag = df['diagnosis']
+dg = df['diagnosis']
 print(diag)
 
 print('--------------------------------------------')
@@ -151,5 +151,6 @@ print('--------------------------------------------')
 
 #You can find this .csv dataset in the Kaggle
 #https://www.kaggle.com/datasets
+
 
 
