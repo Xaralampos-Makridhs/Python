@@ -149,8 +149,13 @@ print('--------------------------------------------')
 # pd.concat([df, df2])  # Concatenate two DataFrames
 # This will throw an error since df2 is not defined in the current code.
 
+print('--------------------------------------------')
+
+print(df.corr()) #Calculates the correlation between two tables.
+
 #You can find this .csv dataset in the Kaggle
 #https://www.kaggle.com/datasets
+
 
 
 
